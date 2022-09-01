@@ -75,3 +75,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 npm install
 npm run build
 ```
+
+
+### References
+- https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/
+- https://ethereum.org/en/developers/tutorials/how-to-mint-an-nft/#main-content
+- https://ethereum.org/en/developers/tutorials/how-to-view-nft-in-metamask/
